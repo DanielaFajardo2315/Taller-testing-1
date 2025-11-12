@@ -68,8 +68,12 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 
 1. Creación del repositorio
 2. Ejecutar el servidor
-<img src="./img_test/prueba_1.png">
+![img1](img_test/prueba_1.png)
 3. Prueba de ejemplo: pasan todos los casos de prueba
-<img src="./img_test/prueba_2.png">
+![img2](img_test/prueba_2.png)
 4. Prueba de ejemplo: no pasan todos los casos de prueba
-<img src="./img_test/prueba_3.png">
+![img3](img_test/prueba_3.png)
+5. Primera prueba con login.test.js
+![img4](img_test/prueba_4.png)
+6. Pruebas en login con 3 casos de prueba
+![img5](img_test/prueba_5.png)
